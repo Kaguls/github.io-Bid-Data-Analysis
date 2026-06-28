@@ -1,7 +1,7 @@
 ---
 layout: list
-title: 기본지식
-slug: 기본지식
+title: Basic
+slug: Basic
 menu: true
 order: 1
 description: >
